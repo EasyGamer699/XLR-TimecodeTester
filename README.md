@@ -29,3 +29,5 @@ The full legal text of the license can be found in the [LICENSE](LICENSE.md) fil
 ---
 
 Copyright (c) 2026 Aaron Stodt
+
+For commercial licensing inquiries or further questions, please contact me at: [stodtaaron@gmail.com](mailto:stodtaaron@gmail.com)
